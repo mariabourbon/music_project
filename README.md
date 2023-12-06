@@ -11,13 +11,13 @@ To use MindfulMelodies, follow these simple steps:
 
 1.Login: After you've logged into your account on MindfulMelodies, you gain access to the full suite of features tailored to your well-being.
 
-2. Choose Your Mental Health Issue: On the user-friendly interface, select the mental health problem you're facing from the dropdown menu. Options include Anxiety, Depression, Insomnia, and OCD.
+2.Choose Your Mental Health Issue: On the user-friendly interface, select the mental health problem you're facing from the dropdown menu. Options include Anxiety, Depression, Insomnia, and OCD.
 
-3. Discover Personalized Playlists: Once you've chosen your mental health concern, MindfulMelodies presents you with a carefully curated list of playlists designed to uplift and support you. These playlists are selected based on genres known to have positive effects on specific mental health conditions.
+3.Discover Personalized Playlists: Once you've chosen your mental health concern, MindfulMelodies presents you with a carefully curated list of playlists designed to uplift and support you. These playlists are selected based on genres known to have positive effects on specific mental health conditions.
 
-4. Explore & Listen:Explore the playlists and find the perfect soundtrack for a healthier and happier you. Each playlist is associated with a range of genres, allowing you to choose the one that resonates with you the most.
+4.Explore & Listen:Explore the playlists and find the perfect soundtrack for a healthier and happier you. Each playlist is associated with a range of genres, allowing you to choose the one that resonates with you the most.
 
-- Connect to Spotify:With a simple button click, seamlessly connect to the Spotify playlist of your choice. Immerse yourself in the therapeutic power of music.
+Connect to Spotify:With a simple button click, seamlessly connect to the Spotify playlist of your choice. Immerse yourself in the therapeutic power of music.
 
 **Code Snippet**
 
