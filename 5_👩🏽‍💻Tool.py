@@ -51,8 +51,8 @@ image_url = "https://www.research4life.org/wp-content/uploads/2019/04/Canva-Pers
 col2.image(image_url, caption="   ",width=400)
 
 
-CLIENT_ID = "451a3679cec64f3b97b14beb667a5529"
-CLIENT_SECRET = "cb7ce96344174fb389e92cb293ce1952"
+CLIENT_ID = "*********************************"
+CLIENT_SECRET = "*****************************"
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET))
 
 mental_health_genres = {
