@@ -41,7 +41,7 @@ col1, col2 = st.columns([3, 1])
 
 col1.write("""Welcome to my website!
 
-Today, I'm excited to introduce you to my latest project, HarmonyHealing.\n
+Today, I'm excited to introduce you to my latest project, Mindful Melodies.\n
 Behind the scenes, I've been working on cleaning, manipulating and analyzing data from a Kaggle survey.\n 
 This survey dives deeply into the ways in which people dealing with mental health issues relate to various musical genres.\n
 
