@@ -77,15 +77,15 @@ def display_playlists(chosen_issue):
                     if playlists['playlists']['items']:
                         playlist = playlists['playlists']['items'][0]
 
-                        # Organize layout with playlist info on the left and image on the right
+                        
                         col1, col2 = st.columns(2)
 
-                        # Display playlist information on the left
+                        
                         col1.text(f"Playlist for genre {genre}:\n"
                                   f"{playlist['name']}\n"
                                   f"   Playlist URL: {playlist['external_urls']['spotify']} ({genre} genre)\n")
 
-                        # Handle the image retrieval on the right
+                        
                         try:
                             image_data = requests.get(playlist['images'][0]['url'], stream=True).content
                             image = Image.open(io.BytesIO(image_data))
@@ -95,7 +95,7 @@ def display_playlists(chosen_issue):
                         except Exception as e:
                             st.text(f"Error: {e}")
 
-                        # Button to open the playlist URL
+                        
                         col1.button(f"Open Playlist ({genre})", on_click=lambda u=playlist['external_urls']['spotify']: open_url(u))
                         col1.text("\n")
                     else:
