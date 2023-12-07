@@ -10,8 +10,6 @@ class User:
         self.email = email
 
     def _hash_password(self, password):
-        # Use a simple hash function (SHA-256) for illustration purposes.
-        # In a real-world scenario, you should use a secure password hashing library.
         return hashlib.sha256(password.encode()).hexdigest()
 
     def verify_password(self, password):
