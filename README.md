@@ -44,10 +44,10 @@ MindfulMelodies underwent meticulous data cleaning and analysis, ensuring the da
 
 **Data Visualization**:
 
-1.Utilized matplotlib and seaborn to create:
-2.Correlation Heatmap: Revealing correlations between variables crucial to understanding their impact on mental health.
-3.Histograms: Providing a visual representation of the distribution of key variables.
-4.Barplots and Lineplots: Illustrating trends and patterns in the data.
+1. Utilized matplotlib and seaborn to create:
+2. Correlation Heatmap: Revealing correlations between variables crucial to understanding their impact on mental health.
+3. Histograms: Providing a visual representation of the distribution of key variables.
+4. Barplots and Lineplots: Illustrating trends and patterns in the data.
 
 **Search Box from Wikipedia API**
 - Explore the definitions of each mental health condition or symptom in the tool, including Anxiety, Depression, Insomnia and OCD.
