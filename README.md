@@ -5,7 +5,8 @@ In this project, I have created a powerful tool, MindfulMelodies, where users ca
 
 
 **Overview**
-User Experience
+
+User Experience:
 
 To use MindfulMelodies, follow these simple steps:
 
