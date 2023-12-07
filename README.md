@@ -50,7 +50,7 @@ MindfulMelodies underwent meticulous data cleaning and analysis, ensuring the da
 4.Barplots and Lineplots: Illustrating trends and patterns in the data.
 
 **Search Box from Wikipedia API**
-- Explore the definitions of each mental health condition or symptom in the tool, including OCD, depression, anxiety, and insomnia.
+- Explore the definitions of each mental health condition or symptom in the tool, including Anxiety, Depression, Insomnia and OCD.
 
 MindfulMelodies: Your musical companion on the journey to better mental well-being. Discover the profound impact of music on your mental health. Explore, listen, and find your perfect soundtrack for a healthier and happier you!
 
