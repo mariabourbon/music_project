@@ -4,7 +4,7 @@ Mindful Melodies: Your Musical Companion for Mental Well-being | Python, APIs an
 In this project, I have created a powerful tool, MindfulMelodies, where users can log in to their accounts and gain access to a unique resource designed to support their mental health through the positive influence of music.
 
 
-**Overview**
+**Overview**\n
 
 User Experience:
 
