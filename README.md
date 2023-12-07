@@ -39,8 +39,8 @@ MindfulMelodies underwent meticulous data cleaning and analysis, ensuring the da
 
 **Data Cleaning**:
 
-1.Removed null values and irrelevant data, enhancing the dataset's quality.
-2.Addressed outliers in columns such as Hours per day, BPM, and Age.
+1. Removed null values and irrelevant data, enhancing the dataset's quality.
+2. Addressed outliers in columns such as Hours per day, BPM, and Age.
 
 **Data Visualization**:
 
